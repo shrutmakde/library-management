@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "yourpassword",
+    "password": "yourpassword", //Replace yourpassword with your password for the databse.
     "database": "library",
     "host": "127.0.0.1",
     "dialect": "postgres"
