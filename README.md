@@ -77,4 +77,4 @@ Open a browser and type []
 
 
 
-# [COuldn't complete the assignment fully as the local machine wasn't able to communicate with the database container for some reason. As an almost novice for frontend and DBMS, watching all the crash courses and trying to finish the assigment within the span of a week has been proven quite tough for me. I'm delivering what I could to you.]
+# [COuldn't complete the assignment fully as the local machine wasn't able to communicate with the database container for some reason. As an almost novice for frontend and DBMS, watching all the crash courses and trying to finish the assigment within the span of a week has been proven quite tough for me. I'm delivering what I could to you.]  
